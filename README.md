@@ -1,7 +1,7 @@
 
 # Flutter Map🗺️ and Auth.
 
-"Bring your resume to life with our Flutter Animation CV app - showcasing your skills and qualifications in a dynamic and engaging way."❤️ 
+An application through which you can log in in more than one way, and you can see the map and the road you want to reach.
 
 https://user-images.githubusercontent.com/60518534/213737814-cd23db24-0523-4066-b5cf-b4cc0b4e1477.mp4
 
