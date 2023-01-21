@@ -3,7 +3,8 @@
 
 An application through which you can log in in more than one way, and you can see the map and the road you want to reach.
 
-https://user-images.githubusercontent.com/60518534/213737814-cd23db24-0523-4066-b5cf-b4cc0b4e1477.mp4
+![Flutter Map and Auth](https://user-images.githubusercontent.com/60518534/213876228-0b5bed0b-dbe5-4efc-a5f2-911def1c4084.gif)
+
 
 ## ⚙ Tools Used
 - Flutter 
@@ -120,7 +121,8 @@ lib
 │──── injection_container.dart
 └──── main.dart    
 ```
-
+## Video
+https://user-images.githubusercontent.com/60518534/213737814-cd23db24-0523-4066-b5cf-b4cc0b4e1477.mp4
 
 ## Packages
 
